@@ -17,7 +17,7 @@ https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/E
 5. **Generar la matriz inversa**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Imprimir%20la%20matriz%20inversa.c
 6. **Generar la matriz traspuesta**
-https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Factorial%20de%20un%20numero.c
+https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/imprimir%20la%20matriz%20traspuesta.c
 7. **Generar la matriz simetrica**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Serie%20artmetica.c
 8. **Cuantas filas y cuantas columnas tiene una matriz**
