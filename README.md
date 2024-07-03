@@ -9,7 +9,7 @@ Cada ejercicio se encuentra en un archivo separado. A continuación se detalla l
 1. **Imprimir los cuatro elementos de las esquinas**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Imprimir%20los%20cuatro%20elemtos%20de%20las%20esquinas.c
 2. **Imprimir los elementos pares de una matriz**
-https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/inverso%20de%20un%20numero.c
+https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Imprimir%20los%20elementos%20pares%20de%20una%20matriz.c
 3. **Imprmir los elementos impares de una matriz**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Sumas%20susesivas.c
 4. **Imprimir los elemntos que no esten en las esquinas**
