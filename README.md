@@ -30,4 +30,4 @@ https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/E
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Multiplicasion%20de%20matrices.c12.
 12. **Divicion de matrices**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Divicion%20de%20matrices.c
-**gracias por leer** 
+13. **gracias por leer** 
