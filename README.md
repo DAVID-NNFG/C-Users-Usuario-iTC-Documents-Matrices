@@ -21,7 +21,7 @@ https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/E
 7. **Generar la matriz simetrica**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Matriz%20simetrica.c
 8. **Cuantas filas y cuantas columnas tiene una matriz**
-https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Producto%20de%20una%20serie%20Geometrica%20%7D.c
+https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Cuantas%20filas%20y%20cuantas%20columans%20tiene%20una%20matriz.c
 9. **Suma de matrices**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Numero%20de%20digitos%20de%20un%20numero.c
 10. **Resta de matrices**
