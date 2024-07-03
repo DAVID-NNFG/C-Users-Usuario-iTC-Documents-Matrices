@@ -6,8 +6,8 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 
 Cada ejercicio se encuentra en un archivo separado. A continuación se detalla la ubicación de cada uno de los ejercicios:
 
-1. **Imprimir lso cuatro elementos de las esquinas**
-https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Suma.c
+1. **Imprimir los cuatro elementos de las esquinas**
+https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Imprimir%20los%20cuatro%20elemtos%20de%20las%20esquinas.c
 2. **Imprimir los elementos pares de una matriz**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/inverso%20de%20un%20numero.c
 3. **Imprmir los elementos impares de una matriz**
