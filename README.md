@@ -11,7 +11,7 @@ https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/E
 2. **Imprimir los elementos pares de una matriz**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Imprimir%20los%20elementos%20pares%20de%20una%20matriz.c
 3. **Imprmir los elementos impares de una matriz**
-https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Sumas%20susesivas.c
+https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Imprimir%20los%20elementos%20imapres%20de%20una%20matriz.c
 4. **Imprimir los elemntos que no esten en las esquinas**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Restas%20sucesivas.c
 5. **Generar la matriz inversa**
