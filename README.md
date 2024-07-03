@@ -15,7 +15,7 @@ https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/E
 4. **Imprimir los elemntos que no esten en las esquinas**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Imprimir%20los%20elementos%20que%20no%20esten%20en%20las%20esquinas.c
 5. **Generar la matriz inversa**
-https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Serie%20de%20Fibonacci.c
+https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Imprimir%20la%20matriz%20inversa.c
 6. **Generar la matriz traspuesta**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-EJERCISIOS/blob/0c112b5bea009325c39c5443797c32a68fdbf984/Factorial%20de%20un%20numero.c
 7. **Generar la matriz simetrica**
