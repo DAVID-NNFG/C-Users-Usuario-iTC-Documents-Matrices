@@ -26,8 +26,8 @@ https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/E
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Suma%20de%20matrices.c
 10. **Resta de matrices**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Resta%20de%20matrices.c
-**Multiplicacion de matrices**
+11. **Multiplicacion de matrices**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Multiplicasion%20de%20matrices.c12.
- **Divicion de matrices**
+12. **Divicion de matrices**
 https://github.com/DAVID-NNFG/C-Users-Usuario-iTC-Documents-Matrices/blob/main/Ejercisios%20de%20matrices/Divicion%20de%20matrices.c
 **gracias por leer** 
