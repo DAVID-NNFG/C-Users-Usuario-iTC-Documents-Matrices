@@ -1,0 +1,59 @@
+import java.util.Scanner;
+import util.binario;
+import util.CifradoInvertidoNumerico;
+import util.DecifradoInvertidoNumerico;
+
+public class avanceproyecto {
+  
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Seleccione una opción de cifrado:");
+        System.out.println("1. Cifrado Binario");
+        System.out.println("2. Cifrado Invertido Numérico");
+        System.out.println("3. Descifrado Invertido Numérico");
+        System.out.println("4. Cifrado Z (a implementar)");
+        System.out.print("Opción: ");
+        int opcion = sc.nextInt();
+        sc.nextLine(); // Limpiar el buffer
+
+        switch (opcion) {
+            case 1 -> {
+                // Cifrado Binario
+                System.out.println("Ingrese el texto para convertir a binario:");
+                String texto = sc.nextLine();
+                String textoBinario = binario.convertirTextoABinario(texto);
+                System.out.println("Texto en binario: " + textoBinario);
+
+                System.out.println("Ingrese el binario para convertir a texto:");
+                String binario = sc.nextLine();
+                String textoOriginal = binario.convertirBinarioATexto(binarioImput);
+                System.out.println("Texto original: " + textoOriginal);
+            }
+
+            case 2 -> {
+                // Cifrado Invertido Numérico
+                System.out.println("Ingrese el mensaje a codificar:");
+                String mensajeCodificar = sc.nextLine();
+                String mensajeCodificado = CifradoInvertidoNumerico.codificar(mensajeCodificar);
+                System.out.println("Mensaje codificado: " + mensajeCodificado);
+            }
+
+            case 3 -> {
+                // Descifrado Invertido Numérico
+                System.out.println("Ingrese el mensaje a decodificar:");
+                String mensajeDecodificar = sc.nextLine();
+                String mensajeDecodificado = DecifradoInvertidoNumerico.decodificar(mensajeDecodificar);
+                System.out.println("Mensaje decodificado: " + mensajeDecodificado);
+            }
+
+            case 4 -> // Placeholder para el cuarto cifrado
+                System.out.println("Cifrado Z está en construcción.");
+
+            default -> System.out.println("Opción no válida. Intente de nuevo.");
+        }
+
+        sc.close();
+    }
+}
